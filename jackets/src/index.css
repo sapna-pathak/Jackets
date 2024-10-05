@@ -1,0 +1,36 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  h1{
+    font-family: "Dancing Script", cursive;
+    font-size: 200px;
+    text-align: center;
+  }
+  a:hover{
+    font-weight: 400;
+    text-decoration: underline;
+  }
+  .second{
+    justify-content: space-between;
+    margin-left: auto;
+  }
+  
+    label{
+      margin: 20px;
+      font-size: x-large;
+    }
+    .contact{
+      background-color: rgb(251, 191, 169);
+    }
+    
+    .div1{
+      display: inline-flex;
+      flex-wrap: wrap;
+      flex-direction: column;
+      justify-content: center;
+    }
+    .div1:hover{
+      transform: scale(1.05);
+    }
+  
+    
